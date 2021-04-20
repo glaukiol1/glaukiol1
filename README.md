@@ -4,7 +4,7 @@
 I have learned a lot of languages, but JavaScript will always be my most loved language.
 
 Im currently working on a full stack project for the upcoming @SpectreTechnologiesLLC.
-```
+JSON```
 {
   "language-rating": {
     "javascript": "10/10",
@@ -18,4 +18,4 @@ Im currently working on a full stack project for the upcoming @SpectreTechnologi
     "plan": "✨undefined✨"
   }
 }
-``JSON`
+```
