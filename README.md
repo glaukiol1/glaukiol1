@@ -1,6 +1,5 @@
-### Hi there 👋
-
-##### Full Stack Web Developer & owner of @SpectreTechnologiesLLC
+[![Glaukio's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaukiol1)](https://github.com/anuraghazra/github-readme-stats)
+#### Full Stack Web Developer & owner of @SpectreTechnologiesLLC
 I have learned a lot of languages, but JavaScript will always be my most loved language.
 
 Im currently working on a full stack project for the upcoming @SpectreTechnologiesLLC.
@@ -15,7 +14,10 @@ Im currently working on a full stack project for the upcoming @SpectreTechnologi
     "java": "9/10"
   },
   "config": {
-    "plan": "✨undefined✨"
+    "plan": ✨undefined✨
   }
 }
 ```
+
+Im willing to contribute to open source projects related to front-end &| back-end JavaScript :)
+Email me [here](mailto:gllupo@outlook.com) for open-source projects in JavaScript! Im willing to contribute.
