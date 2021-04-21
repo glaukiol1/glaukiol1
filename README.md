@@ -20,4 +20,4 @@ Im currently working on a full stack project for the upcoming @SpectreTechnologi
 ```
 
 Im willing to contribute to projects in JavaScript/Python :)
-Email me [here](mailto:gllupo@outlook.com) for open-source projects in JavaScript! Im willing to contribute.
+Email me [here](mailto:gllupo@outlook.com) for open-source projects in JavaScript/Python! Im willing to contribute.
