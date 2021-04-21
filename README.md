@@ -19,5 +19,5 @@ Im currently working on a full stack project for the upcoming @SpectreTechnologi
 }
 ```
 
-Im willing to contribute to open source projects related to front-end &| back-end JavaScript :)
+Im willing to contribute to projects in JavaScript/Python :)
 Email me [here](mailto:gllupo@outlook.com) for open-source projects in JavaScript! Im willing to contribute.
