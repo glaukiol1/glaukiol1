@@ -15,7 +15,12 @@ Im currently working on a full stack project for the upcoming @SpectreTechnologi
   },
   "config": {
     "plan": ✨undefined✨
-  }
+  },
+  "contributingTo": [
+    "Rusted-Script/Rusted-Script",
+    "glaukiol1/_private-repo_",
+    "glaukiol1/xrp-payment-system"
+  ]
 }
 ```
 
