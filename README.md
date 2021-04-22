@@ -1,5 +1,5 @@
 [![Glaukio's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaukiol1)](https://github.com/anuraghazra/github-readme-stats)
-#### Full Stack Web Developer & owner of @SpectreTechnologiesLLC
+### Full Stack Web Developer & owner of @SpectreTechnologiesLLC
 I have learned a lot of languages, but JavaScript will always be my most loved language.
 
 Im currently working on a full stack project for the upcoming @SpectreTechnologiesLLC.
@@ -14,7 +14,7 @@ Im currently working on a full stack project for the upcoming @SpectreTechnologi
     "java": "9/10"
   },
   "config": {
-    "plan": ✨undefined✨
+    "plan": "✨undefined✨"
   },
   "contributingTo": [
     "Rusted-Script/Rusted-Script",
@@ -23,6 +23,13 @@ Im currently working on a full stack project for the upcoming @SpectreTechnologi
   ]
 }
 ```
+
+### Links;
+
+[*Rusted Script*](https://github.com/Rusted-Script/Rusted-Script)
+
+[*xrp-payment-system*](https://github.com/glaukiol1/xrp-payment-system)
+
 
 Im willing to contribute to projects in JavaScript/Python :)
 Email me [here](mailto:gllupo@outlook.com) for open-source projects in JavaScript/Python! Im willing to contribute.
