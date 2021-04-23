@@ -18,7 +18,7 @@ Im currently working on a full stack project for the upcoming @SpectreTechnologi
   },
   "contributingTo": [
     "Rusted-Script/Rusted-Script",
-    "glaukiol1/_private-repo_",
+    "SpectreTechnologiesLLC/_private-repo_",
     "glaukiol1/xrp-payment-system"
   ]
 }
