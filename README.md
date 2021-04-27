@@ -1,4 +1,4 @@
-[![Glaukio's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaukiol1)](https://github.com/anuraghazra/github-readme-stats)
+[![Glaukio's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaukiol1&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 ### Full Stack Web Developer & owner of @SpectreTechnologiesLLC
 I have learned a lot of languages, but JavaScript will always be my most loved language.
 
