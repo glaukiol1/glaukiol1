@@ -1,8 +1,12 @@
 [![Glaukio's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaukiol1&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Full Stack Web Developer & owner of @SpectreTechnologiesLLC
+
 I have learned a lot of languages, but JavaScript will always be my most loved language.
 
-Im currently working on a full stack project for the upcoming @SpectreTechnologiesLLC.
+- Im currently working on [***chatterbocs***](https://github.com/SpectreTechnologiesLLC/chatterbocs)
+- Im currently learning C++ & [Rusted Script](https://github.com/Rusted-Script/Rusted-Script)
+
 ```JSON
 {
   "language-rating": {
@@ -18,18 +22,21 @@ Im currently working on a full stack project for the upcoming @SpectreTechnologi
   },
   "contributingTo": [
     "Rusted-Script/Rusted-Script",
-    "SpectreTechnologiesLLC/_private-repo_",
+    "SpectreTechnologiesLLC/chatterbocs",
     "glaukiol1/xrp-payment-system"
   ]
 }
 ```
 
-### Links;
+### Links; just for my reference lol
 
 [*Rusted Script*](https://github.com/Rusted-Script/Rusted-Script)
 
 [*xrp-payment-system*](https://github.com/glaukiol1/xrp-payment-system)
 
+[*chatterbocs*](https://github.com/SpectreTechnologiesLLC/chatterbocs)
+
 
 Im willing to contribute to projects in JavaScript/Python :)
-Email me [here](mailto:gllupo@outlook.com) for open-source projects in JavaScript/Python! Im willing to contribute.
+
+Email me [here](mailto:gllupo@outlook.com)
