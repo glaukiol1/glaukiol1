@@ -1,4 +1,6 @@
-[![Glaukio's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaukiol1&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+📈 My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=theprogrammedwords&show_icons=true&theme=gotham&" alt="theprogrammedwords" />
 
 ### Full Stack Web Developer & owner of @SpectreTechnologiesLLC
 
