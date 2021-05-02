@@ -15,7 +15,7 @@ Im a Full Stack Web Developer, currently working on [***chatterbocs***](https://
 I like to code different projects, from NodeJS modules to developing Programming Langauges, I like to do a variety of things. I like to code the back-end more,  although I can do both, im not really into CSS.
 <hr>
 <br>
-<div align="center">
+<div>
 I have learned a lot of languages, but JavaScript will always be my most loved language.
 
 - 🔭 Im currently working on [***chatterbocs***](https://github.com/SpectreTechnologiesLLC/chatterbocs)
