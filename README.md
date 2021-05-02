@@ -1,6 +1,6 @@
 📈 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=theprogrammedwords&show_icons=true&theme=gotham&" alt="theprogrammedwords" />
+<img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&theme=gotham&" alt="theprogrammedwords" />
 
 ### Full Stack Web Developer & owner of @SpectreTechnologiesLLC
 
