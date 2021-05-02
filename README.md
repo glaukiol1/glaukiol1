@@ -27,7 +27,7 @@ I have learned a lot of languages, but JavaScript will always be my most loved l
 /*
   Run this little script
   in the command line
-  using nodehttps://github.com/theprogrammedwords
+  using node 
 */
 
 const heart = '❤'
