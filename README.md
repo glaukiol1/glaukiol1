@@ -12,7 +12,7 @@ Im a Full Stack Web Developer, currently working on [***chatterbocs***](https://
 
 <br>
 <img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="450" height="320" />
-I like to code different projects, from NodeJS modules to developing Programming Langauges, I like to do a variety of things. I like to code the back-end more,  although I can do both, im not really into CSS.
+I like to code different projects, from NodeJS serversThe goal of GitHub's open source licensing efforts is to provide a starting point to help you make an informed choice. GitHub displays license information to help users get information about open source licenses and the projects that use them. We hope it helps, but please keep in mind that we’re not lawyers and that we make mistakes like everyone else. For that reason, GitHub provides the information on an “as-is” basis and makes no warranties regarding any information or licenses provided on or through it, and disclaims liability for damages resulting from using the license information. If you have any questions regarding the right license for your code or any other legal issues relating to it, it’s always best to consult with a professional. to developing Programming Langauges, I like to do a variety of things. I like to code the back-end more,  although I can do both, im not really into CSS.
 <hr>
 <br>
 <div>
