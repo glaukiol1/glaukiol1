@@ -1,12 +1,12 @@
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 
 Im a Full Stack Web Developer, currently working on [***chatterbocs***](https://github.com/SpectreTechnologiesLLC/chatterbocs), by [**Spectre LLC**](https://github.com/SpectreTechnologiesLLC). I have experience in Web Development And CLIs, I have also contributed to some small Data Sience & AI projects.
 
 <br />
 
-📈 My GitHub Stats
+<h1 align="center">📈 My GitHub Stats</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&theme=gotham&" alt="glaukiol1 Stats" />
