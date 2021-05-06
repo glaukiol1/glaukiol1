@@ -8,7 +8,11 @@ Im a Full Stack Web Developer, currently working on [***chatterbocs***](https://
 
 📈 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&theme=gotham&" alt="glaukiol1 Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&theme=gotham&" alt="glaukiol1 Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaukiol1&show_icons=true&theme=gotham&" alt="glaukiol1 Langauges">
+</div>
 
 <br>
 <img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="450" height="320" />
