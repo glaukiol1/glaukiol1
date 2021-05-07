@@ -25,7 +25,7 @@ I like to code different projects, from NodeJS servers to developing Programming
 <div>
 I have learned a lot of languages, but JavaScript will always be my most loved language.
 
-- 🔭 Im currently working on [***chatterbocs***](https://github.com/SpectreTechnologiesLLC/chatterbocs)
+- 🔭 Im currently working on [***chatterbocs***](https://github.com/SpectreTechnologiesLLC/chatterbocs) & [***document.js***](https://github.com/glaukiol1/document.js)
 - 🌱 Im currently learning C++
 - 👯 Im currently contributing to [Rusted Script](https://github.com/Rusted-Script/Rusted-Script)
 - ⚡ Fun fact: I love JavaScript.
@@ -51,15 +51,11 @@ for (let i = 0; i<17;i++){
 
 ## Projects;
 
-- [*Rusted Script*](https://github.com/Rusted-Script/Rusted-Script) | Contributing
-
-- [*Visual Studio Code*](https://github.com/microsoft/vscode) | Contributing
+- [*document.js*](https://github.com/glaukiol1/document.js) | Owner
 
 - [*xrp-payment-system*](https://github.com/glaukiol1/xrp-payment-system) | Owner
 
 - [*chatterbocs*](https://github.com/SpectreTechnologiesLLC/chatterbocs) | Owner
-
-- [*document.js*](https://github.com/glaukiol1/document.js) | Owner
 
 - And various small ones :)
 
