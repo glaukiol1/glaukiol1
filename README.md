@@ -11,6 +11,9 @@ Im a Full Stack Web Developer, currently working on [***chatterbocs***](https://
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&theme=gotham&" alt="glaukiol1 Stats" />
   <br />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glaukiol1&count_private=true&theme=gotham" alt="glaukiol1 stats 2" />
+  <br />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaukiol1&show_icons=true&theme=gotham&" alt="glaukiol1 Langauges">
 </div>
 
