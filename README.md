@@ -9,7 +9,7 @@ Im a Full Stack Web Developer, currently working on [***chatterbocs***](https://
 <h2 align="center">📈 My GitHub Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&theme=gotham&" alt="glaukiol1 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&count_private=true&theme=gotham&" alt="glaukiol1 Stats" />
   <br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glaukiol1&count_private=true&theme=gotham" alt="glaukiol1 stats 2" />
   <br />
