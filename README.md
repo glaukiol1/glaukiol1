@@ -58,7 +58,7 @@ for (let i = 0; i<17;i++){
 - [*chatterbocs*](https://github.com/SpectreTechnologiesLLC/chatterbocs) | Owner
 
 - [*G-lang*](https://github.com/glaukiol1/g-script) | Owner
-- 
+
 - And various small ones :)
 
 <p align="center"> 
