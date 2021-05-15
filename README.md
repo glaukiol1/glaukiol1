@@ -9,12 +9,12 @@ Im a Full Stack Web Developer, currently working on [***chatterbocs***](https://
 <h2 align="center">📈 My GitHub Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&count_private=true&theme=gotham&" alt="glaukiol1 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&bg_color=180,d2aeae,e7c26d,00d4ff&title_color=fff&text_color=fff" alt="glaukiol1 Stats" />
   <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glaukiol1&count_private=true&theme=gotham" alt="glaukiol1 stats 2" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glaukiol1&count_private=true&layout=compact&text_color=fff" alt="glaukiol1 stats 2" />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaukiol1&show_icons=true&theme=gotham&" alt="glaukiol1 Langauges">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaukiol1&show_icons=true&bg_color=180,d2aeae,e7c26d,00d4ff&title_color=fff&text_color=fff&layout=compact" alt="glaukiol1 Langauges">
 </div>
 
 <br>
