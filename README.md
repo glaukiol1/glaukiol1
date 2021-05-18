@@ -3,7 +3,16 @@
 <br/>
 
 I am now working as a freelancer,
-#### hire me [here](https://www.fiverr.com/s2/32f47bbaaf)!
+#### hire me [here](https://www.fiverr.com/s2/32f47bbaaf)! I can make full stack websites, upgrade your current one, and make you a full stack website. You can checkout a demo website [here](https://glaukiol1.github.io/demo-website-1).
+#### Why to me?
+- Fully responsive design for mobile & desktop.
+- CSS3 Animations & Transform.
+- Up to 5 edits to your site for free.
+- NodeJS & SQL database.
+- Modern design.
+- You can get it for the _lowest_ price of only ___$5___!
+
+Want it yet? Go order it [here](https://www.fiverr.com/s2/32f47bbaaf)!
 
 <br />
 
