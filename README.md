@@ -15,8 +15,6 @@ I am now working as a freelancer,
 - Modern design.
 - You can get it for the _lowest_ price of only ___$5___!
 
-Want it yet? Go order it [here](https://www.fiverr.com/s2/32f47bbaaf)!
-
 <br />
 
 <h2 align="center">📈 My GitHub Stats</h1>
