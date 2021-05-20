@@ -3,7 +3,10 @@
 <br/>
 
 I am now working as a freelancer,
-#### hire me [here](https://www.fiverr.com/s2/32f47bbaaf)! I can make upgrade your current website, make just the front-end or make you a full stack website! You can checkout a demo website [here](https://glaukiol1.github.io/demo-website-1).
+### I can make upgrade your current website, make just the front-end or make you a full stack website! You can checkout a demo website [here](https://glaukiol1.github.io/demo-website-1).
+
+- Get a ReactJS site [here](https://www.fiverr.com/s2/9fc77f0b46)
+- Get a full stack site [here](https://www.fiverr.com/s2/32f47bbaaf)
 #### Why choose me?
 - Fully responsive design for mobile & desktop.
 - CSS3 Animations & Transform.
