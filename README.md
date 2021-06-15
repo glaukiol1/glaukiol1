@@ -1,23 +1,9 @@
 
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br/>
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">.
 
-I am now working as a freelancer,
-### I can make upgrade your current website, make just the front-end or make you a full stack website! You can checkout a demo website [here](https://glaukiol1.github.io/demo-website-1).
 
-- Get a ReactJS site [here](https://www.fiverr.com/s2/9fc77f0b46)
-- Get a full stack site [here](https://www.fiverr.com/s2/32f47bbaaf)
-#### Why choose me?
-- Fully responsive design for mobile & desktop.
-- CSS3 Animations & Transform.
-- Up to 5 edits to your site for free.
-- NodeJS & SQL database.
-- Modern design.
-- You can get it for the _lowest_ price of only ___$5___!
 
-<br />
-
-<h2 align="center">📈 My GitHub Stats</h1>
+<h3 align="center">📈 My GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=glaukiol1&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&bg_color=180,d2aeae,e7c26d,00d4ff&title_color=fff&text_color=fff" alt="glaukiol1 Stats" />
