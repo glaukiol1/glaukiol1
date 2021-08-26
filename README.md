@@ -23,7 +23,7 @@ I like to code different projects, from NodeJS servers to developing Programming
 I have learned a lot of languages, but JavaScript will always be my most loved language.
 
 - 🔭 Im currently working on [***chatterbocs***](https://github.com/SpectreTechnologiesLLC/chatterbocs)
-- 🌱 Im currently learning C++
+- 🌱 Im currently learning Java!
 - 👯 I can contribute to projects in js/python.
 - ⚡ Fun fact: I love JavaScript.
 
