@@ -19,32 +19,6 @@
 I like to code different projects, from NodeJS servers to developing Programming Langauges, I like to do a variety of things. I like to code the back-end more,  although I can do both, im not really into CSS.
 <hr>
 <br>
-<div>
-I have learned a lot of languages, but JavaScript will always be my most loved language.
-
-- 🔭 Im currently working on [***chatterbocs***](https://github.com/SpectreTechnologiesLLC/chatterbocs)
-- 🌱 Im currently learning Java!
-- 👯 I can contribute to projects in js/python.
-- ⚡ Fun fact: I love JavaScript.
-
-```js
-/*
-  Run this little script
-  in the command line
-  using node 
-*/
-
-const heart = '❤'
-console.log(heart.repeat(50))
-for (let i = 0; i<17;i++){
-   if (i <= 15){
-     console.log(heart+(i==8?'-'.repeat(28)+'@glaukiol1'+'-'.repeat(30):'\t\t\t\t |'))
-   } else if (i == 16) {
-      console.log(heart.repeat(20)+' Node JS '+heart.repeat(24))
-   }
-}
-```
-
 
 ## Projects;
 
@@ -67,7 +41,6 @@ for (let i = 0; i<17;i++){
 
 <p align="center"><b>@glaukiol1 (me)<br><img alt="Profile views" src="https://komarev.com/ghpvc/?username=glaukiol1&style=for-the-badge"></p> 
 
-Im willing to contribute to projects in JavaScript/Python :)
 
 ##### Thanks to [@theprogrammedwords](https://github.com/theprogrammedwords) for the README idea
 </div>
