@@ -12,6 +12,7 @@
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaukiol1&show_icons=true&bg_color=180,d2aeae,e7c26d,00d4ff&title_color=fff&text_color=fff&layout=compact" alt="glaukiol1 Langauges">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=glaukiol1&style=for-the-badge"
 </div>
 
 <br>
@@ -29,8 +30,6 @@
 - [*G-lang*](https://github.com/glaukiol1/g-script) | Owner
 
 - And more!
-
-<p align="center"><b>@glaukiol1 (me)<br><img alt="Profile views" src="https://komarev.com/ghpvc/?username=glaukiol1&style=for-the-badge"></p> 
 
 
 ##### Thanks to [@theprogrammedwords](https://github.com/theprogrammedwords) for the README idea
