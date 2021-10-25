@@ -28,14 +28,7 @@
 
 - [*G-lang*](https://github.com/glaukiol1/g-script) | Owner
 
-- And various small ones :)
-
-<p align="center"> 
-  <b><a href="https://github.com/SpectreTechnologiesLLC/chatterbocs">Chatterbocs Stats</a></b>
-  <br>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SpectreTechnologiesLLC/chatterbocs?style=for-the-badge">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SpectreTechnologiesLLC/chatterbocs?style=for-the-badge">
-</p>
+- And more!
 
 <p align="center"><b>@glaukiol1 (me)<br><img alt="Profile views" src="https://komarev.com/ghpvc/?username=glaukiol1&style=for-the-badge"></p> 
 
