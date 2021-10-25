@@ -16,8 +16,6 @@
 
 <br>
 <img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="450" height="320" />
-I like to code different projects, from NodeJS servers to developing Programming Langauges, I like to do a variety of things. I like to code the back-end more,  although I can do both, im not really into CSS.
-<hr>
 <br>
 
 ## Projects;
