@@ -16,20 +16,8 @@
 </div>
 
 <br>
-<img align="right" alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="450" height="320" />
+<img alt="GIF" src="https://github.com/theprogrammedwords/theprogrammedwords/blob/main/code.gif" width="450" height="320" />
 <br>
-
-## Projects;
-
-- [*document.js*](https://github.com/glaukiol1/document.js) | Owner
-
-- [*xrp-payment-system*](https://github.com/glaukiol1/xrp-payment-system) | Owner
-
-- [*chatterbocs*](https://github.com/SpectreTechnologiesLLC/chatterbocs) | Owner
-
-- [*G-lang*](https://github.com/glaukiol1/g-script) | Owner
-
-- And more!
 
 
 ##### Thanks to [@theprogrammedwords](https://github.com/theprogrammedwords) for the README idea
